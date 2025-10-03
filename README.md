@@ -69,4 +69,4 @@ The script is executed using `main.py`. Here are the available commands:
 
 *   **Python 3.12+**
 
-This project uses only the standard Python libraries (`sqlite3`, `argparse`, `datetime`), so no external packages are required.
+This [project](https://roadmap.sh/projects/task-tracker) uses only the standard Python libraries (`sqlite3`, `argparse`, `datetime`), so no external packages are required.
